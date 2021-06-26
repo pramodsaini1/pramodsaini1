@@ -17,3 +17,4 @@ I'm currently learning React,Node js ,Angular
 - 📫 How to reach me  pramodsaini25062000@gmail.com
 
 my portfolio link :https://pramodsaini1.github.io/Pramod.com
+<img src="images/pramod.jpeg">
