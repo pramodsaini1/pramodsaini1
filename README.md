@@ -5,9 +5,11 @@
 
 #  HELLO 👋 , I'm Pramod Kumar Saini  
 #  I am an undergraduate year student currently a Bachelors' course in computer science and Engineering at GOVERNMENT ENGINEERING COLLEGE BIKANER . I am always energetic and hardworking and to learn new skills . I can also call myself hardworking because whatever I do.
-# Programing Language :: C , C++ ,PHP,MYSQL ;
+# Programing Language :: C , C++  ;
 
- # WEB DEVELOPMENT :: HTML , CSS, JAVASCRIPT , BOOTSTRAP , JQUERY ;
+ # Front-End :: HTML , CSS, JAVASCRIPT , BOOTSTRAP , JQUERY ;
+ 
+ # Back-End :: PHP , MYSQL ;
 
 # DATA STRUCTURE AND ALGO
 
