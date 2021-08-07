@@ -5,7 +5,7 @@
 #  I am an undergraduate year student currently a Bachelors' course in computer science and Engineering at GOVERNMENT ENGINEERING COLLEGE BIKANER . I am always energetic and hardworking and to learn new skills . I can also call myself hardworking because whatever I do.
 # Programing Language :: C , C++  ;
 
- # Front-End :: HTML , CSS, JAVASCRIPT , BOOTSTRAP , JQUERY ;
+ # Front-End :: HTML , CSS, JAVASCRIPT , BOOTSTRAP , JQUERY,ADV.JQUERY ;
  
  # Back-End :: PHP , MYSQL ;
 
