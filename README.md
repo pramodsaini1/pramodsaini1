@@ -1,5 +1,7 @@
 
 #  HELLO 👋 , I'm Pramod Kumar Saini  
+  <img src="https://github-hero-readme.vercel.app/api?username=Ayush7614&linkedin=ayush-kumar-🇮🇳&twitter=Ayush Kumar&description=Open Source | Web Developer | ML   Enthaustic" width="100%">
+
 #  I am an undergraduate year student currently a Bachelors' course in computer science and Engineering at GOVERNMENT ENGINEERING COLLEGE BIKANER . I am always energetic and hardworking and to learn new skills . I can also call myself hardworking because whatever I do.
 # Programing Language :: C , C++  ;
 
