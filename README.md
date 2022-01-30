@@ -7,7 +7,7 @@
 
  # Front-End :: HTML , CSS, JAVASCRIPT , BOOTSTRAP , JQUERY,ADV.JQUERY ;
  
- # Back-End :: PHP , MYSQL,Adv.Java ;
+ # Back-End :: PHP , MYSQL,JSP,SERVLET,ADV.PHP ;
 
 # DATA STRUCTURE AND ALGO
 
