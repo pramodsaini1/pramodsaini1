@@ -2,8 +2,9 @@
 #  HELLO 👋 , I'm Pramod Kumar Saini  
   <img src="https://github-hero-readme.vercel.app/api?username=pramodsaini1&linkedin=pramod-kumar-saini-98813b1b4/&twitter=PramodK82377407&description=Open Source | Web Developer | Competitive Programmer" width="100%">
 
-#  I am an undergraduate year of student currently  purchase a Bachelors' course in computer science and Engineering at GOVERNMENT ENGINEERING COLLEGE BIKANER . I am always energetic and hardworking and to learn new skills . I can also call myself hardworking because whatever I do.
-# Programing Language :: C , C++ ,Java ;
+#  I am a computer science undergraduate at Govt. Engineering College Bikaner. Being from a tech background I am interested in programming using C/C++/Java  along with Data Structures .
+
+ #   I am on various competitive platforms like Hackerrank, Codechef . You can checkout my handle @pramodsaini25061.
 
  # Front-End :: HTML , CSS, JAVASCRIPT , BOOTSTRAP , JQUERY,ADV.JQUERY ;
  
