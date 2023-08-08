@@ -2,7 +2,7 @@
 #  HELLO 👋 , I'm Pramod Kumar Saini  
    
 
- # I am a computer science undergraduate at Govt. Engineering College Bikaner. Being from a tech background I am interested in programming using C/C++/Java along with Data Structures .
+ # Nature gives us chances and we have to convert these chances into opportunities and i am on my way. I will try to do my best and will surely grow in the field of software engineering.
  # I am on various competitive platforms like Hackerrank, Codechef . 
 # You can checkout my handle @pramodsaini25061.
 # I am also a full stack web developer. You can check out my projects at my GitHub .
