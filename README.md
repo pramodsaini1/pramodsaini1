@@ -5,6 +5,7 @@
  # Nature gives us chances and we have to convert these chances into opportunities and i am on my way. I will try to do my best and will surely grow in the field of software engineering.
  # I am on various competitive platforms like Hackerrank, LeetCode . 
 # You can checkout my handle @pramodsaini25061.
+# 5 star @ HackerRank
 # I am also a full stack web developer. You can check out my projects at my GitHub .
 # Link: https://github.com/pramodsaini1
 
