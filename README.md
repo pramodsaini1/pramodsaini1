@@ -19,6 +19,7 @@
 
 <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
+   [![Pramod Saini's GitHub | Stats](https://stats.quine.sh/pramodsaini1/github?theme=light)](https://quine.sh)
 <!--    <img src="https://activity-graph.herokuapp.com/graph?username=Rahul-Bhati&theme=xcode" alt="Contribution Graph" align="center" /> -->
 
 
