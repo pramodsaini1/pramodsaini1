@@ -26,6 +26,6 @@
 <p>
   <a href="https://github.com/pramodsaini1" >  <img src="https://github.com/arpit456jain/arpit456jain/blob/output/github-contribution-grid-snake.gif" align="center" />  </a>
   </p>
-[![Pramod Saini's GitHub | Stats](https://stats.quine.sh/pramodsani1/github?theme=light)](https://quine.sh)
+[![Pramod Saini's GitHub | Stats](https://stats.quine.sh/pramodsaini1/github?theme=light)](https://quine.sh)
 
  
