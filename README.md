@@ -6,7 +6,7 @@
  # I am on various competitive platforms like Hackerrank, LeetCode . 
 # You can checkout my handle @pramodsaini25061.
 # 5 star @ HackerRank
-# 350 + Questions Solved on LeetCode
+# 400 + Questions Solved on LeetCode
 # I am also a full stack web developer. You can check out my projects at my GitHub .
 # Link: https://github.com/pramodsaini1
 
